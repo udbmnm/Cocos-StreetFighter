@@ -13,3 +13,9 @@
 
 技能: 
 * L： 波动拳
+
+
+
+
+
+![image.png](https://i.loli.net/2021/01/15/FPtRG4uchyjzn5H.png)
