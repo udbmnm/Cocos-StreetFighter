@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kick",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "05d6744c-4b51-4977-b87f-0f734e5804ce"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "73695734-6531-4d0b-9d1a-782e2412e279"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6f02240c-2838-47da-9f7b-619a85d961a6"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "4e242cb2-edef-4b37-b5a1-d28d91b69cb8"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ae9a116a-1987-41a5-80d5-848fddd342f6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

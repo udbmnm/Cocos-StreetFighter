@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wave",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "026b497d-17af-48f9-af40-b0a48592081b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "71bfdf1c-6741-4edb-b2f5-dadbc3ef127a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

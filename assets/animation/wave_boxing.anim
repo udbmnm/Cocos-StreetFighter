@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wave-boxing",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1a24db8e-a1ce-4fa9-ad52-00c57c3b102b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a6e70fe7-f03d-4a63-a6b7-bf26ff744287"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7028f374-d0c0-4bc8-8b50-8d645ae36d1e"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "d2d740b1-796a-4f3d-bb02-d5bcee83e1be"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
