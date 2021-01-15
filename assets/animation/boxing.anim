@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boxing",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b738988a-3f35-4f50-b930-db8f6e2ecec1"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b30fbca5-905d-4ed1-b16b-a30777c87b4c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "82699303-05e0-4ad8-855f-6c585596958b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
